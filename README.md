@@ -17,16 +17,5 @@ The Meal-Saving CRUD Application is a web-based platform that allows users to sa
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 
-## Installation
 
-### Prerequisites
 
-- Node.js (v22.7.0 or later)
-- MongoDB (Ensure MongoDB is installed and running)
-
-### Steps
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/meal-saving-app.git
-   cd meal-saving-app
